@@ -34,8 +34,9 @@ The following are the minimum requirements;
 - Navigate to the app in the folder structure
 - In the command line type 'node index' without the quotation marks
 - Answer the questions as they appear
-- On completion of the final question, the terminal will return to the folder structure and an Output Readme will have been produced.
-- To preview your document in VSCode, right click the Readme.md tab and select Preview.
+- On completion of the final question, the terminal will return to the folder structure and an Output Readme will   
+  have been produced.
+- To preview your document in VSCode, right click the Readme.md tab and select Preview from the dropdown list.
 
 
 ### Walkthrough Video
