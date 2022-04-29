@@ -1,9 +1,9 @@
-# testing Gen
+# Testing Gen
   
-  <img src="https://img.shields.io/badge/license-MIT-orange.svg"/> 
+<img src="https://img.shields.io/badge/license-Apache2.0-orange.svg"/> 
   
 ## Description
-     testing the readme generator 
+     Testing the veracity of the node generator. 
   
 ## Table of Contents
   
@@ -11,21 +11,22 @@
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Test](#test) * [Questions](#questions)
+* [Test](#test)
+* [Questions](#questions)
      
   
 ## Installation
-     1) launch node in the terminal 2)enter node index.js and press return.
+     You will need to ensure node is installed then launch terminal and type in node index.js and press return.
   
 ## Usage
-     see above
+     can be used to create readme documents for your project
   
 ## License
   
-  This project is Licensed under MIT.
+  This project is Licensed under Apache2.0.
   
 ## Contributing
-    all helpers are welcome
+    contact the author 
   
 ## Test
     no tests required
