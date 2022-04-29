@@ -43,7 +43,7 @@ TBC
 
 ### Screenshot of deployed app
 
-![Deployed Application](./utils/images/)
+![Deployed Application](./utils/images/Deployed-application.png)
 
 
 ## Further Information and Help
