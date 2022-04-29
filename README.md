@@ -43,7 +43,7 @@ TBC
 
 ### Screenshot of deployed app
 
-![Deployed Application](./utils/images/Readmegen-picture.png)
+![Deployed Application](./utils/images/)
 
 
 ## Further Information and Help
