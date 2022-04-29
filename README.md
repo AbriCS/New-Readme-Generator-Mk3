@@ -39,7 +39,7 @@ The following are the minimum requirements;
 
 
 ### Walkthrough Video
-TBC
+![Deployed Application](./utils/images/Demo-of-Readmegenerator.mp4)
 
 ### Screenshot of deployed app
 
