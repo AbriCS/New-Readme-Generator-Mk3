@@ -1,38 +1,37 @@
-# 1
+# testing Gen
   
-<img src="https://img.shields.io/badge/license-GNU-orange.svg"/> 
+  <img src="https://img.shields.io/badge/license-MIT-orange.svg"/> 
   
 ## Description
-     2 
+     testing the readme generator 
   
 ## Table of Contents
   
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Test](#test)
-  * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Test](#test) * [Questions](#questions)
      
   
 ## Installation
-     4
+     1) launch node in the terminal 2)enter node index.js and press return.
   
 ## Usage
-     5
+     see above
   
 ## License
   
-  This project is Licensed under GNU.
+  This project is Licensed under MIT.
   
 ## Contributing
-    6
+    all helpers are welcome
   
 ## Test
-    7
+    no tests required
   
 ## Questions
-    If you have any questions about the project or the Repo, please feel free to contact me at 8
-    You can find more of my projects at [9](https://github.com/9)
+    If you have any questions about the project or the Repo, please feel free to contact me at abricsltd@gmail.com
+    You can find more of my projects at [abrics](https://github.com/abrics)
   
   
