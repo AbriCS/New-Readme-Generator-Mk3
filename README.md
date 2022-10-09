@@ -40,7 +40,7 @@ The following are the minimum requirements;
 
 
 ### Walkthrough Video
-![Deployed Application](./utils/images/Demo-of-Readmegenerator.mp4)
+![Deployed Application](https://github.com/AbriCS/New-Readme-Generator-Mk3)
 
 ### Screenshot of deployed app
 
